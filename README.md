@@ -16,3 +16,7 @@ Predicting credit default by anaylsis of imbalanced data and forecasting the pos
 
 ## predicting by the best fit model
 By choosing the best model and adjust the parameter, we test on both training_new and test data
+best parameter: {'max_features': 2, 'min_samples_leaf': 50}
+
+auc= 0.909869939233906 for training data
+auc= 0.8645695844668151 for test data
